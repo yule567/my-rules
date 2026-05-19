@@ -1,1 +1,19 @@
+# NAME: chatgpt
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,chatgpt
+# NAME: gemini
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,gemini
+# NAME: copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN-KEYWORD,copilot
+
+
+
+
+
+
+
+
 
