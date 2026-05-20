@@ -13,6 +13,7 @@ DOMAIN,copilot.microsoft.com
 DOMAIN-KEYWORD,copilot
 # NAME: grok
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,grok
 
 
