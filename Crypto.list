@@ -1,1 +1,52 @@
+# NAME: binance
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-KEYWORD,binance
 
+# NAME: OKX
+DOMAIN-SUFFIX,okex.com 
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx-httpdns.com 
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okex.org
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,okex
+
+# NAME: Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bgstatic.com
+DOMAIN-SUFFIX,gurenla.com
+DOMAIN-KEYWORD,bitget
+
+# NAME: Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,wsot2022.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-KEYWORD,bybit
+
+# NAME: Gate
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.ac
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gateapi.io
+DOMAIN-KEYWORD,gateio
+DOMAIN-KEYWORD,gate
