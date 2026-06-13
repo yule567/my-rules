@@ -1,9 +1,13 @@
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,kraken.com
+
+# NAME: 盈透
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
+
+# NAME: 富途
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futuholdings.com
