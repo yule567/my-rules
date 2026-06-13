@@ -7,23 +7,5 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
 
-# NAME: 富途
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuhk.com
-DOMAIN-SUFFIX,futuholdings.com
-DOMAIN-SUFFIX,futubull.com
-DOMAIN-SUFFIX,fututrustee.com
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,moomoo.com.hk
-DOMAIN-SUFFIX,moomoo.com.au
-DOMAIN-SUFFIX,moomoo.com.sg
-DOMAIN-SUFFIX,moomoo.ca
-DOMAIN-SUFFIX,moomoo.nz
-DOMAIN-SUFFIX,futubullstatic.com
-DOMAIN-SUFFIX,futunnimg.com
-DOMAIN-SUFFIX,futunnstatic.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-KEYWORD,futu
-DOMAIN-KEYWORD,moomoo
 
 
