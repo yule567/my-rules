@@ -7,6 +7,16 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
 
+# NAME: 嘉信理财
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwab.com.au
+DOMAIN-SUFFIX,schwabwallstreet.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,thinkorswim.com
+
 # NAME: 富途
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,qcloud.com
