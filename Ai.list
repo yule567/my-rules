@@ -123,15 +123,11 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # NAME: Apple Intelligence
-# Apple official: https://support.apple.com/en-us/101555
-# Siri / Search
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
-# Private Cloud Compute (PCC) / Apple Intelligence Extensions
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,apple-relay.apple.com
-# Community supplementary (not in Apple's official AI host list)
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.akamaized.net
