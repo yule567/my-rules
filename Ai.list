@@ -35,6 +35,11 @@ DOMAIN-KEYWORD,chatgpt
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaimerge.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
+DOMAIN-SUFFIX,ct.sendgrid.net
 
 # NAME: gemini
 DOMAIN,ai.google.dev
@@ -56,6 +61,7 @@ DOMAIN,ogads.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,colab.google.com
+DOMAIN,generativelanguage.googleapis.com
 
 # NAME: copilot
 DOMAIN,api.msn.com
@@ -110,6 +116,9 @@ IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
+DOMAIN,copilot.cloud.microsoft
+DOMAIN,msedge.api.cdp.microsoft.com
+DOMAIN,config.edge.skype.com
 
 # NAME: grok
 DOMAIN-SUFFIX,grok.com
@@ -121,6 +130,7 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claude.com
 
 # NAME: Apple Intelligence
 DOMAIN,guzzoni.apple.com
