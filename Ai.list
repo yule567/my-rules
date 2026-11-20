@@ -133,13 +133,13 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claude.com
 
 # NAME: Apple Intelligence
-DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,cp4.cloudflare.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,apple-relay.akamaized.net
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
+# DOMAIN,guzzoni.apple.com
+# DOMAIN-SUFFIX,smoot.apple.com
+# DOMAIN,apple-relay.cloudflare.com
+# DOMAIN,apple-relay.fastly-edge.com
+# DOMAIN,cp4.cloudflare.com
+# DOMAIN,apple-relay.apple.com
+# DOMAIN,gspe1-ssl.ls.apple.com
+# DOMAIN,apple-relay.akamaized.net
+# DOMAIN-SUFFIX,apple.com
+# DOMAIN-SUFFIX,icloud.com
